@@ -1,0 +1,15 @@
+{
+    "ramoGrande": {
+        "ramo1": "AL8d10r5t30",
+        "ramo2": "BL5x8t12f30",
+        "ramo3": "CL7n2z8o20",
+        "ramo4": "DL10a12e5h30"
+    },
+
+    "ramoChico": {
+        "ramo1": "NS8d10r5t30",
+        "ramo2": "AS13r3b2y20",
+        "ramo3": "TS6g5u2p15",
+        "ramo4": "IL10a12e5h30"
+    }
+}
