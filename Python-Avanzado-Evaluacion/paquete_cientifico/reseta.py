@@ -81,13 +81,13 @@ class Reseta(pc.Ramo):
                     self.__flores_a_descontar.clear()
                     return False
                 else:
-                    '''
+                    
                     for valor in self.__flores_a_descontar:
                         # Descuento las flores del inventario.
                         self.flores.descontar_flor_inventario(valor[0], valor[1], valor[2])
                     self.flores.clear_check_cola_flores()
                     self.__flores_a_descontar.clear()
-                    ''' 
+                     
                     self.ramos.entregar_ramo(reseta_original)
                     
                     
